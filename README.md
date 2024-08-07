@@ -1,4 +1,4 @@
-Airbnb Amsterdam Analysis Project
+# Airbnb Amsterdam Analysis Project
 
 This project aims to analyze Airbnb data specific to Amsterdam by simulating a full ETL (Extract, Transform, Load) process, including data modelling and ingestion into a MySQL database to simulate an extract operation in a relational database 
 
