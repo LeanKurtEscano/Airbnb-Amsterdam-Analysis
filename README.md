@@ -4,6 +4,6 @@ This project aims to analyze Airbnb data specific to Amsterdam by simulating a f
 
 Dataset Source: https://www.kaggle.com/datasets/erikbruin/airbnb-amsterdam
 
-### Data Modeling:
+### Data Ingestion and Modelling:
 
-Schema Design: Design a MySQL database schema to store Airbnb data efficiently. The schema includes tables like listings, reviews, reservations, and users, capturing detailed information about listings, user reviews, reservations, and user profile
+Schema Design: Design a MySQL database schema to store Airbnb data efficiently. The schema includes tables like listings, reviews, reservations, and users, capturing detailed information about listings, user reviews, reservations, and user profile, host name and other relevant information
