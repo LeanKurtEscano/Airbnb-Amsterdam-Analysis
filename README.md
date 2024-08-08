@@ -1,6 +1,6 @@
 # Airbnb Amsterdam Data Engineering Project
 
-This project focuses on analyzing Airbnb data specific to Amsterdam by simulating a full ETL (Extract, Transform, Load) process. It includes both database modeling and the ingestion of data into a MySQL database to simulate an extract operation in a relational database.
+This project focuses on analyzing Airbnb data specific to Amsterdam by simulating a full ETL (Extract, Transform, Load) process. It includes both database modeling and data ingestion into a MySQL database to simulate an extract operation in a relational database.
 
 Dataset Source: https://www.kaggle.com/datasets/erikbruin/airbnb-amsterdam
 
